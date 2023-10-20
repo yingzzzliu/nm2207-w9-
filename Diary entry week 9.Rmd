@@ -1,0 +1,21 @@
+---
+title: "Diary entry Week 9"
+author: "Liu Yingzhe"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## What is the topic you have finalised?
+
+_How can the happiness levels of students be improved in Singapore through insights from World Happiness Index Report. Appropriate strategies will be suggested based on the different factors of the World Happiness Index of Singapore and also by taking reference to other countries._ 
+
+## What are the data sources that you have curated so far? 
+
+_I have obtained the World Happiness Report 2021 dataset. This will be used to analyse the Happiness Index of different countries as well as the factors measured for the Happiness Index. I will need to obtain datasets on students wellbeing and mental health to identify strategies that will be helpful._
+
+[World Happiness Report 2021](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021)
+
+
+
